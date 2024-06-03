@@ -65,43 +65,43 @@
     "tshirts":[
         {
           "product_id": "TSH001",
-          "description": "Plain White T-Shirt",
+          "description": "Devil",
           "price": 9.99,
           "quantity": 50
         },
         {
           "product_id": "TSH002",
-          "description": "Black Graphic Tee",
+          "description": "Dice",
           "price": 14.99,
           "quantity": 30
         },
         {
           "product_id": "TSH003",
-          "description": "Red V-Neck T-Shirt",
+          "description": "Halloween",
           "price": 12.99,
           "quantity": 40
         },
         {
           "product_id": "TSH004",
-          "description": "Blue Polo Shirt",
+          "description": "Logo with Monster",
           "price": 19.99,
           "quantity": 20
         },
         {
           "product_id": "TSH005",
-          "description": "Green Striped T-Shirt",
+          "description": "Terror Fest 2022",
           "price": 16.99,
           "quantity": 25
         },
         {
           "product_id": "TSH006",
-          "description": "Yellow Crew Neck",
+          "description": "Rocking Rat",
           "price": 11.99,
           "quantity": 35
         },
         {
           "product_id": "TSH007",
-          "description": "Gray Long Sleeve Tee",
+          "description": "Un final Fatal",
           "price": 17.99,
           "quantity": 22
         },
@@ -188,5 +188,42 @@
           "price": 34.99,
           "quantity": 7
         }
-      ]
+      ],
+      
+      "music":[
+      {
+        "nameOfSong": "",
+        "album": "",
+       "artist": "",
+        "ytLink": ""
+      },
+
+      {
+        "nameOfSong": "",
+        "album": "",
+       "artist": "",
+        "ytLink": ""
+      },
+
+      {
+        "nameOfSong": "",
+        "album": "",
+       "artist": "",
+        "ytLink": ""
+      },
+
+      {
+        "nameOfSong": "",
+        "album": "",
+       "artist": "",
+        "ytLink": ""
+      },
+
+      {
+        "nameOfSong": "",
+        "album": "",
+       "artist": "",
+        "ytLink": ""
+      }
+    ]
     }
