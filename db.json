@@ -60,7 +60,7 @@
       "price": 279.99,
       "quantity": 6
     }
-  ]
+  ],
 
     "tshirts":[
         {
@@ -123,20 +123,20 @@
           "price": 21.99,
           "quantity": 18
         }
-      ]
+      ],
 
 
     "hats":
     [
         {
           "product_id": "HAT001",
-          "description": "Classic Fedora",
+          "description": "5 panel waterproof (Black Camo)",
           "price": 49.99,
           "quantity": 10
         },
         {
           "product_id": "HAT002",
-          "description": "Baseball Cap",
+          "description": "5 panel waterproof (White Camo)",
           "price": 19.99,
           "quantity": 25
         },
@@ -148,43 +148,43 @@
         },
         {
           "product_id": "HAT004",
-          "description": "Cowboy Hat",
+          "description": "Terror Club Blue (waterproof) Snapback",
           "price": 59.99,
           "quantity": 8
         },
         {
           "product_id": "HAT005",
-          "description": "Panama Hat",
+          "description": "Terror Club Gold Edition (waterproof) Snapback",
           "price": 39.99,
           "quantity": 15
         },
         {
           "product_id": "HAT006",
-          "description": "Sun Hat",
+          "description": "Terror Club Army Green (waterproof) Snapback",
           "price": 24.99,
           "quantity": 20
         },
         {
           "product_id": "HAT007",
-          "description": "Top Hat",
+          "description": "Gold Cap Ego Negativo (waterproof)",
           "price": 79.99,
           "quantity": 5
         },
         {
           "product_id": "HAT008",
-          "description": "Bucket Hat",
+          "description": "Red and Yellow Snapback",
           "price": 22.99,
           "quantity": 18
         },
         {
           "product_id": "HAT009",
-          "description": "Trilby",
+          "description": "Terror Club Khaki (waterproof) Snapback",
           "price": 44.99,
           "quantity": 12
         },
         {
           "product_id": "HAT010",
-          "description": "Bowler Hat",
+          "description": "Black and Orange Snapback",
           "price": 34.99,
           "quantity": 7
         }
