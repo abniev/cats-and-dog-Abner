@@ -1,126 +1,192 @@
 {
-  "cats": [
-      {
-          "name": "Leo",
-          "breed": "Bengal",
-          "age": 4,
-          "image": "https://example.com/cat10.jpg"
-      },
-      {
-          "name": "Bella",
-          "breed": "British Shorthair",
-          "age": 11,
-          "image": "https://example.com/cat2.jpg"
-      },
-      {
-          "name": "Shadow",
-          "breed": "Maine Coon",
-          "age": 1,
-          "image": "https://example.com/cat7.jpg"
-      },
-      {
-          "name": "Shadow",
-          "breed": "Maine Coon",
-          "age": 14,
-          "image": "https://example.com/cat8.jpg"
-      },
-      {
-          "name": "Oliver",
-          "breed": "Persian",
-          "age": 10,
-          "image": "https://example.com/cat9.jpg"
-      },
-      {
-          "name": "Whiskers",
-          "breed": "British Shorthair",
-          "age": 14,
-          "image": "https://example.com/cat8.jpg"
-      },
-      {
-          "name": "Simba",
-          "breed": "Abyssinian",
-          "age": 9,
-          "image": "https://example.com/cat3.jpg"
-      },
-      {
-          "name": "Oliver",
-          "breed": "Persian",
-          "age": 3,
-          "image": "https://example.com/cat6.jpg"
-      },
-      {
-          "name": "Whiskers",
-          "breed": "Bengal",
-          "age": 8,
-          "image": "https://example.com/cat10.jpg"
-      },
-      {
-          "name": "Luna",
-          "breed": "Persian",
-          "age": 1,
-          "image": "https://example.com/cat3.jpg"
-      }
-  ],
-  "dogs": [
-      {
-          "name": "Max",
-          "breed": "Golden Retriever",
-          "age": 14,
-          "image": "https://example.com/dog2.jpg"
-      },
-      {
-          "name": "Luna",
-          "breed": "Poodle",
-          "age": 12,
-          "image": "https://example.com/dog9.jpg"
-      },
-      {
-          "name": "Daisy",
-          "breed": "Boxer",
-          "age": 11,
-          "image": "https://example.com/dog5.jpg"
-      },
-      {
-          "name": "Bella",
-          "breed": "Dachshund",
-          "age": 8,
-          "image": "https://example.com/dog3.jpg"
-      },
-      {
-          "name": "Lucy",
-          "breed": "German Shepherd",
-          "age": 1,
-          "image": "https://example.com/dog8.jpg"
-      },
-      {
-          "name": "Lucy",
-          "breed": "Dachshund",
-          "age": 9,
-          "image": "https://example.com/dog4.jpg"
-      },
-      {
-          "name": "Charlie",
-          "breed": "German Shepherd",
-          "age": 13,
-          "image": "https://example.com/dog2.jpg"
-      },
-      {
-          "name": "Bella",
-          "breed": "Golden Retriever",
-          "age": 7,
-          "image": "https://example.com/dog1.jpg"
-      },
-      {
-          "name": "Buddy",
-          "breed": "Rottweiler",
-          "age": 10,
-          "image": "https://example.com/dog10.jpg"
-      },
-      {
-          "name": "Rocky",
-          "breed": "Bulldog",
-          "age": 5,
-          "image": "https://example.com/dog5.jpg"
-      }
+    "jewelry": [
+    {
+      "product_id": "JWL001",
+      "description": "Gold Necklace",
+      "price": 299.99,
+      "quantity": 5
+    },
+    {
+      "product_id": "JWL002",
+      "description": "Silver Bracelet",
+      "price": 149.99,
+      "quantity": 15
+    },
+    {
+      "product_id": "JWL003",
+      "description": "Diamond Ring",
+      "price": 999.99,
+      "quantity": 2
+    },
+    {
+      "product_id": "JWL004",
+      "description": "Pearl Earrings",
+      "price": 199.99,
+      "quantity": 10
+    },
+    {
+      "product_id": "JWL005",
+      "description": "Platinum Wedding Band",
+      "price": 799.99,
+      "quantity": 3
+    },
+    {
+      "product_id": "JWL006",
+      "description": "Emerald Pendant",
+      "price": 349.99,
+      "quantity": 7
+    },
+    {
+      "product_id": "JWL007",
+      "description": "Ruby Brooch",
+      "price": 399.99,
+      "quantity": 4
+    },
+    {
+      "product_id": "JWL008",
+      "description": "Sapphire Anklet",
+      "price": 179.99,
+      "quantity": 8
+    },
+    {
+      "product_id": "JWL009",
+      "description": "Amethyst Cufflinks",
+      "price": 129.99,
+      "quantity": 12
+    },
+    {
+      "product_id": "JWL010",
+      "description": "Opal Necklace",
+      "price": 279.99,
+      "quantity": 6
+    }
   ]
-}
+
+    "tshirts":[
+        {
+          "product_id": "TSH001",
+          "description": "Plain White T-Shirt",
+          "price": 9.99,
+          "quantity": 50
+        },
+        {
+          "product_id": "TSH002",
+          "description": "Black Graphic Tee",
+          "price": 14.99,
+          "quantity": 30
+        },
+        {
+          "product_id": "TSH003",
+          "description": "Red V-Neck T-Shirt",
+          "price": 12.99,
+          "quantity": 40
+        },
+        {
+          "product_id": "TSH004",
+          "description": "Blue Polo Shirt",
+          "price": 19.99,
+          "quantity": 20
+        },
+        {
+          "product_id": "TSH005",
+          "description": "Green Striped T-Shirt",
+          "price": 16.99,
+          "quantity": 25
+        },
+        {
+          "product_id": "TSH006",
+          "description": "Yellow Crew Neck",
+          "price": 11.99,
+          "quantity": 35
+        },
+        {
+          "product_id": "TSH007",
+          "description": "Gray Long Sleeve Tee",
+          "price": 17.99,
+          "quantity": 22
+        },
+        {
+          "product_id": "TSH008",
+          "description": "Purple Athletic T-Shirt",
+          "price": 18.99,
+          "quantity": 28
+        },
+        {
+          "product_id": "TSH009",
+          "description": "Pink Tank Top",
+          "price": 13.99,
+          "quantity": 45
+        },
+        {
+          "product_id": "TSH010",
+          "description": "Brown Henley Shirt",
+          "price": 21.99,
+          "quantity": 18
+        }
+      ]
+
+
+    "hats":
+    [
+        {
+          "product_id": "HAT001",
+          "description": "Classic Fedora",
+          "price": 49.99,
+          "quantity": 10
+        },
+        {
+          "product_id": "HAT002",
+          "description": "Baseball Cap",
+          "price": 19.99,
+          "quantity": 25
+        },
+        {
+          "product_id": "HAT003",
+          "description": "Beanie",
+          "price": 14.99,
+          "quantity": 30
+        },
+        {
+          "product_id": "HAT004",
+          "description": "Cowboy Hat",
+          "price": 59.99,
+          "quantity": 8
+        },
+        {
+          "product_id": "HAT005",
+          "description": "Panama Hat",
+          "price": 39.99,
+          "quantity": 15
+        },
+        {
+          "product_id": "HAT006",
+          "description": "Sun Hat",
+          "price": 24.99,
+          "quantity": 20
+        },
+        {
+          "product_id": "HAT007",
+          "description": "Top Hat",
+          "price": 79.99,
+          "quantity": 5
+        },
+        {
+          "product_id": "HAT008",
+          "description": "Bucket Hat",
+          "price": 22.99,
+          "quantity": 18
+        },
+        {
+          "product_id": "HAT009",
+          "description": "Trilby",
+          "price": 44.99,
+          "quantity": 12
+        },
+        {
+          "product_id": "HAT010",
+          "description": "Bowler Hat",
+          "price": 34.99,
+          "quantity": 7
+        }
+      ]
+    }
