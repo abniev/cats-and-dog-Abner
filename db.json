@@ -191,12 +191,131 @@
       ],
       
       "music":[
-      {
-        "id": "ID-0b4e2e31",
-        "artistName": "Ladrones",
-        "songTitle": "Maquina Caotica",
-       "youTubeUrl": "https://www.youtube.com/watch?v=8rqJmintAn0",
-        "commentBox": "Rock band from Atlanta"
-      }
-    ]
+        {
+          "id": "ID-0b4e2e31",
+          "artistName": "Ladrones",
+          "songTitle": "Maquina Caotica",
+          "youTubeUrl": "https://www.youtube.com/watch?v=8rqJmintAn0",
+          "commentBox": "Rock band from Atlanta"
+        },
+        {
+          "artistName": "Rainao",
+          "songTitle": "logout (Bichoalizer)",
+          "youTubeUrl": "https://www.youtube.com/watch?v=zr1GZU6kjoU",
+          "commentBox": "Banger",
+          "id": "k7nW4tD"
+        },
+        {
+          "artistName": "Genitallica",
+          "songTitle": "¿Qué fue lo que pasó?",
+          "youTubeUrl": "https://www.youtube.com/watch?v=Iwts750Axqc",
+          "commentBox": "clasico",
+          "id": "OSHNQRf"
+        },
+        {
+          "artistName": "Misfits",
+          "songTitle": "Last Caress",
+          "youTubeUrl": "https://www.youtube.com/watch?v=UuzA4U1njO8",
+          "commentBox": "Love this song ",
+          "id": "JDnoFmK"
+        },
+        {
+          "artistName": "Big Pun",
+          "songTitle": "Twinz '98",
+          "youTubeUrl": "https://www.youtube.com/watch?v=AiwvPmRTv6M",
+          "commentBox": "my favorite",
+          "id": "WrpPO15"
+        },
+        {
+          "artistName": "Un Final Fatal ",
+          "songTitle": "Atrapado",
+          "youTubeUrl": "https://www.youtube.com/watch?v=tPXYACWz_DQ",
+          "commentBox": "Full  rechords",
+          "id": "fTAxtOs"
+        },
+        {
+          "artistName": "Kendrick Lamar",
+          "songTitle": "Alright",
+          "youTubeUrl": "https://www.youtube.com/watch?v=Z-48u_uWMHY",
+          "commentBox": "",
+          "id": "sBZJAdM"
+        },
+        {
+          "artistName": "Ratas",
+          "songTitle": "Ya no queda mas de mi ",
+          "youTubeUrl": "https://www.youtube.com/watch?v=RedYyz7e-Zo",
+          "commentBox": " Punk de Puerto Rico",
+          "id": "T_ZOvoh"
+        },
+        {
+          "artistName": "Eminem",
+          "songTitle": "Without Me",
+          "youTubeUrl": "https://www.youtube.com/watch?v=eJO5HU_7_1w",
+          "commentBox": "super classic",
+          "id": "HWWT8fd"
+        },
+        {
+          "artistName": "Beastie Boys",
+          "songTitle": "Intergalact",
+          "youTubeUrl": "https://www.youtube.com/watch?v=qORYO0atB6g",
+          "commentBox": "RAWKKKK",
+          "id": "nX2_sPp"
+        },
+        {
+          "artistName": "Method Man & Redman",
+          "songTitle": "Rockwilder",
+          "youTubeUrl": "https://www.youtube.com/watch?v=WCYy8jpp7R8",
+          "commentBox": "bop",
+          "id": "D5HDvg6"
+        },
+        {
+          "artistName": "Daft Punk ",
+          "songTitle": "One more time",
+          "youTubeUrl": "https://www.youtube.com/watch?v=FGBhQbmPwH8",
+          "commentBox": " one more time baby , favorite song",
+          "id": "AHNcw6k"
+        },
+        {
+          "artistName": "Wu-Tang Clan",
+          "songTitle": "Da Mystery of Chessboxin'",
+          "youTubeUrl": "https://www.youtube.com/watch?v=Np9WbEqgcXo&list=PL_pyV3jSyaUZhlh207KQav7_aMD1ahec8&index=6",
+          "commentBox": "love this shit and for the homies",
+          "id": "Gvk5n8f"
+        },
+        {
+          "artistName": "Anti-Flag ",
+          "songTitle": "I,d tell you but",
+          "youTubeUrl": "https://www.youtube.com/watch?v=mJis7YEgDjI",
+          "commentBox": "NO WAAAYYY DUDE",
+          "id": "gSKFcSx"
+        },
+        {
+          "artistName": "Elvis crespo",
+          "songTitle": "Suavemente ",
+          "youTubeUrl": "https://www.youtube.com/watch?v=WPiEbYSF9kE",
+          "commentBox": "Elvis Roccckkk",
+          "id": "a__MY2A"
+        },
+        {
+          "artistName": "Otoboke Beaver",
+          "songTitle": "Dont Light my fire ",
+          "youTubeUrl": "https://www.youtube.com/watch?v=fkWfFXnLpYg",
+          "commentBox": "Elvis Roccckkk",
+          "id": "defeRHv"
+        },
+        {
+          "artistName": "Bebe,Ivy Queen,Baby Rasta & Gringo,Point Breakers",
+          "songTitle": "The Noise 6",
+          "youTubeUrl": "https://www.youtube.com/watch?v=UX81eafuGg4",
+          "commentBox": "",
+          "id": "pmVRJcL"
+        },
+        {
+          "artistName": "Rites of Spring",
+          "songTitle": "For Want  Of",
+          "youTubeUrl": "https://www.youtube.com/watch?v=fXID4RvSLz4",
+          "commentBox": " POSERSSS",
+          "id": "xG7iHcR"
+        }
+      ]
 }
