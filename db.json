@@ -193,38 +193,10 @@
       "music":[
       {
         "id": "ID-0b4e2e31",
-        "nameOfSong": "",
-        "album": "",
-       "artist": "",
-        "ytLink": ""
-      },
-
-      {
-        "id": "ID-1f8a5c9d",
-        "nameOfSong": "",
-       "artist": "",
-        "ytLink": ""
-      },
-
-      {
-        "id": "ID-29f6b4d0",
-        "nameOfSong": "",
-       "artist": "",
-        "ytLink": ""
-      },
-
-      {
-        "id": "ID-3c7e5a21",
-        "nameOfSong": "",
-       "artist": "",
-        "ytLink": ""
-      },
-
-      {
-        "id": "ID-4a8f2c3b",
-        "nameOfSong": "",
-       "artist": "",
-        "ytLink": ""
+        "artistName": "Ladrones",
+        "songTitle": "Maquina Caotica",
+       "youTubeUrl": "https://www.youtube.com/watch?v=8rqJmintAn0",
+        "commentBox": "Rock band from Atlanta"
       }
     ]
-    }
+}
