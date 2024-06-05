@@ -144,23 +144,16 @@
           "description": "5 panel waterproof",
           "price": 19.99,
           "quantity": 25,
-          "url":""
+          "url":"https://res.cloudinary.com/dlbhhobaw/image/upload/v1717627114/308808515_612309713783431_560865412408398950_n_z5zzjr.jpg"
         },
-        {
-          "id": "HAT003",
-          "title": "Black Camo",
-          "description": "Beanie",
-          "price": 14.99,
-          "quantity": 30,
-          "url":""
-        },
+        
         {
           "id": "HAT004",
           "title": "Terror Club Blue",
           "description": "waterproof Snapback",
           "price": 59.99,
           "quantity": 8,
-          "url":""
+          "url":"https://res.cloudinary.com/dlbhhobaw/image/upload/v1717627529/309235094_1497136157469086_3341748123594115742_n_n9lxaa.jpg"
         },
         {
           "id": "HAT005",
@@ -168,7 +161,7 @@
           "description": "waterproof Snapback",
           "price": 39.99,
           "quantity": 15,
-          "url":""
+          "url":"https://res.cloudinary.com/dlbhhobaw/image/upload/v1717627680/308230719_486059303372976_682267303956901914_n_vhpqni.jpg"
         },
         {
           "id": "HAT006",
@@ -176,15 +169,15 @@
           "description": "waterproof Snapback",
           "price": 24.99,
           "quantity": 20,
-          "url":""
+          "url":"https://res.cloudinary.com/dlbhhobaw/image/upload/v1717627677/305626328_465589215473697_1060089306846739309_n_ujxnsv.jpg"
         },
         {
           "id": "HAT007",
           "title": "Gold Cap Ego Negativo",
           "description": "waterproof",
           "price": 79.99,
-          "quantity": 5,
-          "url":""
+          "quantity": 20,
+          "url":"https://res.cloudinary.com/dlbhhobaw/image/upload/v1717627747/301133164_1581443645583677_7666450248148659062_n_r8tcyh.jpg"
         },
         {
           "id": "HAT008",
@@ -192,7 +185,7 @@
           "description": "Snapback",
           "price": 22.99,
           "quantity": 18,
-          "url":""
+          "url":"https://res.cloudinary.com/dlbhhobaw/image/upload/v1717627805/301314705_130425026369171_8802471931502935639_n_i7jcpe.jpg"
         },
         {
           "id": "HAT009",
@@ -200,7 +193,7 @@
           "description": "waterproof Snapback",
           "price": 44.99,
           "quantity": 12,
-          "url":""
+          "url":"https://res.cloudinary.com/dlbhhobaw/image/upload/v1717627853/301162941_1118511165708063_4397029355805250562_n_ahnsai.jpg"
         },
         {
           "id": "HAT010",
@@ -208,7 +201,7 @@
           "description": "Snapback",
           "price": 34.99,
           "quantity": 7,
-          "url":""
+          "url":"https://res.cloudinary.com/dlbhhobaw/image/upload/v1717627901/296158157_349232787412178_3498115031823752327_n_tbpm2j.jpg"
         }
       ],
       
