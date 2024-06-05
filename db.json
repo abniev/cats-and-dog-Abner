@@ -144,7 +144,7 @@
           "description": "5 panel waterproof",
           "price": 19.99,
           "quantity": 25,
-          "url":
+          "url":""
         },
         {
           "id": "HAT003",
@@ -152,7 +152,7 @@
           "description": "Beanie",
           "price": 14.99,
           "quantity": 30,
-          "url":
+          "url":""
         },
         {
           "id": "HAT004",
@@ -160,7 +160,7 @@
           "description": "waterproof Snapback",
           "price": 59.99,
           "quantity": 8,
-          "url":
+          "url":""
         },
         {
           "id": "HAT005",
@@ -168,7 +168,7 @@
           "description": "waterproof Snapback",
           "price": 39.99,
           "quantity": 15,
-          "url":
+          "url":""
         },
         {
           "id": "HAT006",
@@ -176,7 +176,7 @@
           "description": "waterproof Snapback",
           "price": 24.99,
           "quantity": 20,
-          "url":
+          "url":""
         },
         {
           "id": "HAT007",
@@ -184,7 +184,7 @@
           "description": "waterproof",
           "price": 79.99,
           "quantity": 5,
-          "url":
+          "url":""
         },
         {
           "id": "HAT008",
@@ -192,7 +192,7 @@
           "description": "Snapback",
           "price": 22.99,
           "quantity": 18,
-          "url":
+          "url":""
         },
         {
           "id": "HAT009",
@@ -200,7 +200,7 @@
           "description": "waterproof Snapback",
           "price": 44.99,
           "quantity": 12,
-          "url":
+          "url":""
         },
         {
           "id": "HAT010",
@@ -208,7 +208,7 @@
           "description": "Snapback",
           "price": 34.99,
           "quantity": 7,
-          "url":
+          "url":""
         }
       ],
       
