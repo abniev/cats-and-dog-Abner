@@ -92,7 +92,8 @@
           "id": "TSH005",
           "description": "Terror Fest 2022",
           "price": 16.99,
-          "quantity": 25
+          "quantity": 25,
+          "url": "https://res.cloudinary.com/dlbhhobaw/image/upload/v1717611763/terror_2_lj9f7m.jpg"
         },
         {
           "id": "TSH006",
@@ -134,70 +135,80 @@
           "title": "Black Camo",
           "description": "5 panel waterproof",
           "price": 49.99,
-          "quantity": 10
+          "quantity": 10,
+          "url":"https://res.cloudinary.com/dlbhhobaw/image/upload/v1717625996/311138262_771000427298960_644398564849037067_n_u6sjs2.jpg"
         },
         {
           "id": "HAT002",
           "title": "White Camo",
           "description": "5 panel waterproof",
           "price": 19.99,
-          "quantity": 25
+          "quantity": 25,
+          "url":
         },
         {
           "id": "HAT003",
           "title": "Black Camo",
           "description": "Beanie",
           "price": 14.99,
-          "quantity": 30
+          "quantity": 30,
+          "url":
         },
         {
           "id": "HAT004",
           "title": "Terror Club Blue",
           "description": "waterproof Snapback",
           "price": 59.99,
-          "quantity": 8
+          "quantity": 8,
+          "url":
         },
         {
           "id": "HAT005",
           "title": "Terror Club Gold Edition",
           "description": "waterproof Snapback",
           "price": 39.99,
-          "quantity": 15
+          "quantity": 15,
+          "url":
         },
         {
           "id": "HAT006",
           "title": "Terror Club Army Green",
           "description": "waterproof Snapback",
           "price": 24.99,
-          "quantity": 20
+          "quantity": 20,
+          "url":
         },
         {
           "id": "HAT007",
           "title": "Gold Cap Ego Negativo",
           "description": "waterproof",
           "price": 79.99,
-          "quantity": 5
+          "quantity": 5,
+          "url":
         },
         {
           "id": "HAT008",
           "title": "Red and Yellow",
           "description": "Snapback",
           "price": 22.99,
-          "quantity": 18
+          "quantity": 18,
+          "url":
         },
         {
           "id": "HAT009",
           "title": "Terror Club Khaki",
           "description": "waterproof Snapback",
           "price": 44.99,
-          "quantity": 12
+          "quantity": 12,
+          "url":
         },
         {
           "id": "HAT010",
           "title": "Black and Orange",
           "description": "Snapback",
           "price": 34.99,
-          "quantity": 7
+          "quantity": 7,
+          "url":
         }
       ],
       
