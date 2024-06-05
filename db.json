@@ -1,61 +1,61 @@
 {
     "jewelry": [
     {
-      "product_id": "JWL001",
+      "id": "JWL001",
       "description": "Gold Necklace",
       "price": 299.99,
       "quantity": 5
     },
     {
-      "product_id": "JWL002",
+      "id": "JWL002",
       "description": "Silver Bracelet",
       "price": 149.99,
       "quantity": 15
     },
     {
-      "product_id": "JWL003",
+      "id": "JWL003",
       "description": "Diamond Ring",
       "price": 999.99,
       "quantity": 2
     },
     {
-      "product_id": "JWL004",
+      "id": "JWL004",
       "description": "Pearl Earrings",
       "price": 199.99,
       "quantity": 10
     },
     {
-      "product_id": "JWL005",
+      "id": "JWL005",
       "description": "Platinum Wedding Band",
       "price": 799.99,
       "quantity": 3
     },
     {
-      "product_id": "JWL006",
+      "id": "JWL006",
       "description": "Emerald Pendant",
       "price": 349.99,
       "quantity": 7
     },
     {
-      "product_id": "JWL007",
+      "id": "JWL007",
       "description": "Ruby Brooch",
       "price": 399.99,
       "quantity": 4
     },
     {
-      "product_id": "JWL008",
+      "id": "JWL008",
       "description": "Sapphire Anklet",
       "price": 179.99,
       "quantity": 8
     },
     {
-      "product_id": "JWL009",
+      "id": "JWL009",
       "description": "Amethyst Cufflinks",
       "price": 129.99,
       "quantity": 12
     },
     {
-      "product_id": "JWL010",
+      "id": "JWL010",
       "description": "Opal Necklace",
       "price": 279.99,
       "quantity": 6
@@ -65,61 +65,61 @@
     "tshirts":
     [
         {
-          "product_id": "TSH001",
+          "id": "TSH001",
           "description": "Devil",
           "price": 9.99,
           "quantity": 50
         },
         {
-          "product_id": "TSH002",
+          "id": "TSH002",
           "description": "Dice",
           "price": 14.99,
           "quantity": 30
         },
         {
-          "product_id": "TSH003",
+          "id": "TSH003",
           "description": "Halloween",
           "price": 12.99,
           "quantity": 40
         },
         {
-          "product_id": "TSH004",
+          "id": "TSH004",
           "description": "Logo with Monster",
           "price": 19.99,
           "quantity": 20
         },
         {
-          "product_id": "TSH005",
+          "id": "TSH005",
           "description": "Terror Fest 2022",
           "price": 16.99,
           "quantity": 25
         },
         {
-          "product_id": "TSH006",
+          "id": "TSH006",
           "description": "Rocking Rat",
           "price": 11.99,
           "quantity": 35
         },
         {
-          "product_id": "TSH007",
+          "id": "TSH007",
           "description": "Un final Fatal",
           "price": 17.99,
           "quantity": 22
         },
         {
-          "product_id": "TSH008",
+          "id": "TSH008",
           "description": "Purple Athletic T-Shirt",
           "price": 18.99,
           "quantity": 28
         },
         {
-          "product_id": "TSH009",
+          "id": "TSH009",
           "description": "Pink Tank Top",
           "price": 13.99,
           "quantity": 45
         },
         {
-          "product_id": "TSH010",
+          "id": "TSH010",
           "description": "Brown Henley Shirt",
           "price": 21.99,
           "quantity": 18
@@ -130,70 +130,70 @@
     "hats":
     [
         {
-          "product_id": "HAT001",
+          "id": "HAT001",
           "title": "Black Camo",
           "description": "5 panel waterproof",
           "price": 49.99,
           "quantity": 10
         },
         {
-          "product_id": "HAT002",
+          "id": "HAT002",
           "title": "White Camo",
           "description": "5 panel waterproof",
           "price": 19.99,
           "quantity": 25
         },
         {
-          "product_id": "HAT003",
+          "id": "HAT003",
           "title": "Black Camo",
           "description": "Beanie",
           "price": 14.99,
           "quantity": 30
         },
         {
-          "product_id": "HAT004",
+          "id": "HAT004",
           "title": "Terror Club Blue",
           "description": "waterproof Snapback",
           "price": 59.99,
           "quantity": 8
         },
         {
-          "product_id": "HAT005",
+          "id": "HAT005",
           "title": "Terror Club Gold Edition",
           "description": "waterproof Snapback",
           "price": 39.99,
           "quantity": 15
         },
         {
-          "product_id": "HAT006",
+          "id": "HAT006",
           "title": "Terror Club Army Green",
           "description": "waterproof Snapback",
           "price": 24.99,
           "quantity": 20
         },
         {
-          "product_id": "HAT007",
+          "id": "HAT007",
           "title": "Gold Cap Ego Negativo",
           "description": "waterproof",
           "price": 79.99,
           "quantity": 5
         },
         {
-          "product_id": "HAT008",
+          "id": "HAT008",
           "title": "Red and Yellow",
           "description": "Snapback",
           "price": 22.99,
           "quantity": 18
         },
         {
-          "product_id": "HAT009",
+          "id": "HAT009",
           "title": "Terror Club Khaki",
           "description": "waterproof Snapback",
           "price": 44.99,
           "quantity": 12
         },
         {
-          "product_id": "HAT010",
+          "id": "HAT010",
           "title": "Black and Orange",
           "description": "Snapback",
           "price": 34.99,
