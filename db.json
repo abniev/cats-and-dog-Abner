@@ -68,62 +68,71 @@
           "id": "TSH001",
           "description": "Devil",
           "price": 9.99,
-          "quantity": 50
+          "quantity": 50,
+          "url": "https://res.cloudinary.com/dlbhhobaw/image/upload/v1717636513/274999769_1594090360957364_2200458890376863622_n_pvkdwx.jpg"
         },
         {
           "id": "TSH002",
-          "description": "Dice",
+          "description": "Ski Mask",
           "price": 14.99,
-          "quantity": 30
+          "quantity": 30,
+          "url": "https://res.cloudinary.com/dlbhhobaw/image/upload/v1717636664/408493664_1082511479852314_5804326889100972335_n_dtnpag.jpg"
         },
         {
           "id": "TSH003",
           "description": "Halloween",
           "price": 12.99,
-          "quantity": 40
+          "quantity": 40,
+          "url": "https://res.cloudinary.com/dlbhhobaw/image/upload/v1717636517/292336050_149507711003308_6492085529766332490_n_mwhrfe.jpg"
         },
         {
           "id": "TSH004",
           "description": "Logo with Monster",
           "price": 19.99,
-          "quantity": 20
+          "quantity": 20,
+          "url": "https://res.cloudinary.com/dlbhhobaw/image/upload/v1717636515/277384095_268184408850084_5702676897033426260_n_todh5l.jpg"
         },
         {
           "id": "TSH005",
           "description": "Terror Fest 2022",
           "price": 16.99,
           "quantity": 25,
-          "url": "https://res.cloudinary.com/dlbhhobaw/image/upload/v1717611763/terror_2_lj9f7m.jpg"
+          "url": "https://res.cloudinary.com/dlbhhobaw/image/upload/v1717636513/274999769_1594090360957364_2200458890376863622_n_pvkdwx.jpg"
         },
         {
           "id": "TSH006",
           "description": "Rocking Rat",
           "price": 11.99,
-          "quantity": 35
+          "quantity": 35,
+          "url": "https://res.cloudinary.com/dlbhhobaw/image/upload/v1717636511/252413500_932625547635227_8812411936731439681_n_coripw.jpg"
         },
         {
           "id": "TSH007",
           "description": "Un final Fatal",
           "price": 17.99,
-          "quantity": 22
+          "quantity": 22,
+          "url": "https://res.cloudinary.com/dlbhhobaw/image/upload/v1717636509/235155369_916795605540140_5413207588728629179_n_vcn1ix.jpg"
         },
         {
           "id": "TSH008",
-          "description": "Purple Athletic T-Shirt",
+          "description": "Logo with Monster",
           "price": 18.99,
-          "quantity": 28
+          "quantity": 28,
+          "url": "https://res.cloudinary.com/dlbhhobaw/image/upload/v1717636510/241502465_245192230701695_8124995064902237442_n_vrmobb.jpg"
         },
         {
           "id": "TSH009",
-          "description": "Pink Tank Top",
+          "description": "Do it Yourself",
           "price": 13.99,
-          "quantity": 45
+          "quantity": 45,
+          "url": "https://res.cloudinary.com/dlbhhobaw/image/upload/v1717636506/55842836_338409310212680_5126625475197618213_n_z7akjj.jpg"
         },
         {
           "id": "TSH010",
-          "description": "Brown Henley Shirt",
+          "description": "Rat Fink",
           "price": 21.99,
-          "quantity": 18
+          "quantity": 18,
+          "url": "https://res.cloudinary.com/dlbhhobaw/image/upload/v1717636505/54800572_430508971042587_6777810234480021273_n_kfjtss.jpg"
         }
       ],
 
